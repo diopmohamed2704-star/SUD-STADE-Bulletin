@@ -1,0 +1,5 @@
+{
+  "name": "SudStade Bulletin Generator",
+  "description": "Une plateforme professionnelle pour la saisie des notes par classe et la génération automatisée de bulletins scolaires conformes aux modèles officiels (Sénégal/IA Thies).",
+  "requestFramePermissions": []
+}
